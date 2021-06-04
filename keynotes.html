@@ -52,11 +52,23 @@
 									<p>We are lucky to have two great keynotes this year! Titles and abstracts will follow soon.</p>
 									<h3>Rachel Rudinger</h3>
 									
+									<p><b>When Pigs Fly and Birds Don't: Exploring Defeasible Inference in Natural Language</b></p>
+									
+									<p>Commonsense reasoning tasks are often posed in terms of soft inferences: given a textual description of a scenario, determine which inferences are likely or plausibly true. For example, if a person drops a glass, it is likely to shatter when it hits the ground. A hallmark of such inferences is that they are defeasible, meaning they may be undermined or retracted with the introduction of new information. (E.g., we no longer infer that the dropped glass is likely to have shattered upon learning that it landed on a soft pile of laundry.) While defeasible reasoning is a long-standing topic of research in Artificial Intelligence (McCarthy, 1980; McDermott and Doyle, 1980; Reiter, 1980), it is less well studied in the context of contemporary text-based inference tasks, like Recognizing Textual Entailment (Dagan et al., 2005), or Natural Language Inference (MacCartney, 2009; Bowman et al., 2015). In this talk, I will present a new line of work that merges traditional defeasible reasoning with contemporary data-driven textual inference tasks. I argue that defeasible inference is a broadly applicable framework for different types of language inference tasks, and present examples for physical, temporal, and social reasoning.</p>
+									
 									<p>
 										<img src="images/rudinger.jpg" align="right" width="185.7" height="167.3" style="margin-left:15px">
 										<a href="https://rudinger.github.io/">Rachel Rudinger</a> is an Assistant Professor of Computer Science at the University of Maryland, College Park. Previously, she obtained her PhD at John Hopkins University and spent a year as a Young Investigator at AI2 in Seattle. Her research focuses on problems in natural language understanding, including knowledge acquisition from text, commonsense inference, computationally-tractable semantic representations, and semantic parsing. She is also a contributing member of the Decompositional Semantics Initiative.<br></p>
 									
 									<h3>Mirella Lapata</h3>
+									
+										<p><b>The Democratization of Semantic Parsing via Zero-Shot Cross-lingual Learning</b></p>
+										<p>Semantic parsing is the task of mapping natural language utterances to machine-interpretable expressions such as SQL or a logical meaning representation. It has emerged as a key technology for developing natural language interfaces, especially in the context of question answering where a semantically complex question is mapped to an executable query to retrieve an answer, or denotation.
+
+										Datasets for semantic parsing scarcely consider languages other than English and professional translation can be prohibitively expensive. Recent work has successfully applied machine translation to localize
+										parsers to new languages. However, high-quality machine translation is less viable for lower resource languages, and can introduce performance limiting artifacts, struggling to accurately model native speakers.</p>
+										
+										<p>In this talk view cross-lingual semantic parsing as a zero-shot learning problem. We propose a multi-task encoder-decoder model to transfer parsing knowledge to additional languages using only English-Logical form paired data and unlabeled, mono-lingual utterances in each target language. Our encoder learns language-agnostic representations and is jointly optimized for generating logical forms or utterance reconstruction and against language discriminability. We frame zero-shot parsing as a latent-space alignment problem and find that pre-trained models can be improved to generate logical forms with minimal cross-lingual transfer penalty. Our parser performs above back-translation baselines and, in some cases, approaches the supervised upper bound.</p>
 									
 									<p>
 										<img src="images/lapata.jpeg" align="right" width="177" height="177" style="margin-left:20px">
