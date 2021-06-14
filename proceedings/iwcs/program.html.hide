@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Program - 14th International Conference on Computational Semantics (IWCS)</title>
+<link rel="stylesheet" rev="stylesheet" href="../standard.css">
+</head>
+<body bgcolor="white">
+
+<center>
+<table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+                <td colspan="3"><a href="index.html">ACL 2020 Proceedings Home</a> | <a href="https://acl2020.org/">ACL 2020 WEBSITE</a> | <a href="http://www.aclweb.org/">ACL WEBSITE</a></td>
+	</tr>
+</table>
+
+<br><br>
+
+<h2>14th International Conference on Computational Semantics (IWCS)</h2>
+
+<p><b> PROGRAM</b></p>
+
+<table cellspacing="0" cellpadding="5" border="0"><tr><td colspan=2 style="padding-top: 14px;"><h4>Thursday, June 17, 2021</h4></td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>15:00–16:00 Keynote 1</b></td></tr>
+<tr><td valign=top>15:00–16:00</td><td valign=top><em>The Democratization of Semantic Parsing via Zero-Shot Cross-lingual Learning</em><br>Mirella Lapata</td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>16:00–17:00 Main session 1</b></td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.1.pdf"><i>Switching Contexts: Transportability Measures for NLP</i></a><br>
+Guy Marshall, Mokanarangan Thayaparan, Philip Osborne and André Freitas</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.2.pdf"><i>Applied Temporal Analysis: A Complete Run of the FraCaS Test Suite</i></a><br>
+Jean-Philippe Bernardy and Stergios Chatzikyriakidis</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.3.pdf"><i>CO-NNECT: A Framework for Revealing Commonsense Knowledge Paths as Explicitations of Implicit Knowledge in Texts</i></a><br>
+Maria Becker, Katharina Korfhage, Debjit Paul and Anette Frank</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.4.pdf"><i>Computing All Quantifier Scopes with CCG</i></a><br>
+Miloš Stanojević and Mark Steedman</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.5.pdf"><i>Encoding Explanatory Knowledge for Zero-shot Science Question Answering</i></a><br>
+Zili Zhou, Marco Valentino, Donal Landers and André Freitas</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.6.pdf"><i>Predicate Representations and Polysemy in VerbNet Semantic Parsing</i></a><br>
+James Gung and Martha Palmer</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.7.pdf"><i>Critical Thinking for Language Models</i></a><br>
+Gregor Betz, Christian Voigt and Kyle Richardson</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.8.pdf"><i>Do Natural Language Explanations Represent Valid Logical Arguments? Verifying Entailment in Explainable NLI Gold Standards</i></a><br>
+Marco Valentino, Ian Pratt-Hartmann and André Freitas</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.9.pdf"><i>Looking for a Role for Word Embeddings in Eye-Tracking Features Prediction: Does Semantic Similarity Help?</i></a><br>
+Lavinia Salicchi, Alessandro Lenci and Emmanuele Chersoni</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.10.pdf"><i>Automatic Assignment of Semantic Frames in Disaster Response Team Communication Dialogues</i></a><br>
+Natalia Skachkova and Ivana Kruijff-Korbayova</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.11.pdf"><i>Implicit representations of event properties within contextual language models: Searching for &quot;causativity neurons&quot;</i></a><br>
+Esther Seyffarth, Younes Samih, Laura Kallmeyer and Hassan Sajjad</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.12.pdf"><i>Monotonicity Marking from Universal Dependency Trees</i></a><br>
+Zeming Chen and Qiyue Gao</td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>17:00–18:00 Open space (unconferencing)</b></td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>18:00–19:00 Semantic surprise event</b></td></tr>
+<tr><td colspan=2 style="padding-top: 14px;"><h4>Friday, June 18, 2021</h4></td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>15:00–16:00 Keynote 2</b></td></tr>
+<tr><td valign=top>15:00–16:00</td><td valign=top><em>When Pigs Fly and Birds Don’t: Exploring Defeasible Inference in Natural Language</em><br>Rachel Rudinger</td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>16:00–17:00 Main session 2</b></td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.13.pdf"><i>Is that really a question? Going beyond factoid questions in NLP</i></a><br>
+Aikaterini-Lida Kalouli, Rebecca Kehlbeck, Rita Sevastjanova, Oliver Deussen, Daniel Keim and Miriam Butt</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.14.pdf"><i>New Domain, Major Effort? How Much Data is Necessary to Adapt a Temporal Tagger to the Voice Assistant Domain</i></a><br>
+Touhidul Alam, Alessandra Zarcone and Sebastian Padó</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.15.pdf"><i>Breeding Fillmore’s Chickens and Hatching the Eggs: Recombining Frames and Roles in Frame-Semantic Parsing</i></a><br>
+Gosse Minnema and Malvina Nissim</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.16.pdf"><i>Large-scale text pre-training helps with dialogue act recognition, but not without fine-tuning</i></a><br>
+Bill Noble and Vladislav Maraev</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.17.pdf"><i>Builder, we have done it: Evaluating &amp; Extending Dialogue-AMR NLU Pipeline for Two Collaborative Domains</i></a><br>
+Claire Bonial, Mitchell Abrams, David Traum and Clare Voss</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.18.pdf"><i>A Transition-based Parser for Unscoped Episodic Logical Forms</i></a><br>
+Gene Kim, Viet Duong, Xin Lu and Lenhart Schubert</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.19.pdf"><i>&quot;Politeness, you simpleton!&quot; retorted [MASK]: Masked prediction of literary characters</i></a><br>
+Eric Holgate and Katrin Erk</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.20.pdf"><i>Tuning Deep Active Learning for Semantic Role Labeling</i></a><br>
+Skatje Myers and Martha Palmer</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.21.pdf"><i>SemLink 2.0: Chasing Lexical Resources</i></a><br>
+Kevin Stowe, Jenette Preciado, Kathryn Conger, Susan Windisch Brown, Ghazaleh Kazeminejad, James Gung and Martha Palmer</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.22.pdf"><i>Variation in framing as a function of temporal reporting distance</i></a><br>
+Levi Remijnse, Marten Postma and Piek Vossen</td></tr>
+<tr><td valign=top width=100>16:00–17:00</td><td valign=top align=left><a href="pdf/2021.iwcs-1.23.pdf"><i>Automatic Classification of Attributes in German Adjective-Noun Phrases</i></a><br>
+Neele Falk, Yana Strakatova, Eva Huber and Erhard Hinrichs</td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>17:00–18:00 The Future of Computational Semantics</b></td></tr>
+<tr><td valign=top style="padding-top: 14px;">&nbsp;</td><td valign=top style="padding-top: 14px;"><b>18:00–19:00 Ending ceremony</b></td></tr>
+</table></center><p>&nbsp;</body></html>
